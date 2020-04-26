@@ -1,0 +1,9 @@
+Size of array: 12
+The element of rank 10 is: 5
+
+
+
+
+
+
+
